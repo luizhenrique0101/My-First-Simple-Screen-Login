@@ -2,6 +2,7 @@
 
 <p>
 Alguns dias pra cá,eu vi a necessidade de uma interface visual e decidir que iria começar a estudar. E...também já estava cansado de ver a cor preta do Terminal kkkk.
+  
 Queria uma biblioteca que eu pudesse fazer algo interessante que eu não ficasse tão limitado e que me possibilitasse  programar em python, já que é a linguagem que tenho mais conhecimento.Para a minha surpresa, achei o Tkinter,que  pra ser sincero a minha primeira imprenssão foi achar  que não haveria  ferramentas necessarias para fazer algo deveeas interessante. E mais uma vez eu me enganei.
 passou 3 dias estudando sobre ela e decidir que antes de me aprofundar mais nos conhecimentos,eu iria fazer uma tela Login com os recursos que eu tinha em mão.
 
