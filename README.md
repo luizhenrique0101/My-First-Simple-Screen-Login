@@ -9,3 +9,6 @@ passou 3 dias estudando sobre ela e decidir que antes de me aprofundar mais nos 
 Com 8 horas de trabalho,saiu essa "belezinha" aí,sei que foi muitas horas (que poderiam ter sido acelerada) mas nada se compara a felicidade de ver uma ideia que tive,que passei pro Paint e conseguir realizar perfeitamente oque eu tinha planejadoo.
 Como eu disse,eu fiz essa interface com pouco conhecimento do Tkinter,tive várias dificuldades em alinhar os widgets,então perdi uma boa hora,mas valeu a pena!
 </p>
+
+
+![interface](https://user-images.githubusercontent.com/105760898/200207715-d4fe6240-af58-4765-97ae-269f8913e905.jpg)
