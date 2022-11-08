@@ -7,8 +7,8 @@ E...também já estava cansado de ver a cor preta do Terminal kkkk.
 Queria uma biblioteca que eu pudesse fazer algo interessante que não limitasse ao extremo e que possibilitasse  programar em python, já que é a linguagem que atualmente estudo.
 Para a minha surpresa, achei o Tkinter,que  pra ser sincero a minha primeira imprenssão foi: <b> achar  que não haveria  ferramentas necessarias para fazer algo interessante</b> e mais uma vez eu me enganei.
 
-Se passou 3 dias estudando e lendo a documentação do Tkinter e então... veio uma ideia de tela que eu poderia fazer e que iria usar todo o conhecimento que eu aprendi até o momento.                        
-Eu  também optei de fazer a tela antes de ver alguém fazendo,pois queria tentar fazer sozinho pra depois comparar com outra e ver oque podia ter sido evitado,ver onde errei e consertar o erro,pois ninguém faz algo de primeira e acerta tudo.
+Se passou 3 dias estudando e lendo a documentação do Tkinter e então... veio uma ideia de fazer uma <i><b>Screen Login</b></i> que eu poderia fazer e que iria usar todo o conhecimento que eu adquiri até o momento.                        
+Eu  também optei de fazer a tela antes de ver alguém fazendo,pois queria montar uma sozinho pra depois comparar com outra e ver oque podia ter sido evitado,ver onde errei e consertar o erro,pois ninguém faz algo de primeira e acerta tudo.
 
 Mesmo com uma certa limitação da parte do meu aprendizado referente ao Tkinter,eu conseguir transformar a ideia que tive em uma Interface do jeitinho que eu tinha pensado e desenhado.
 </p>
