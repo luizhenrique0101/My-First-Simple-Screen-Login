@@ -13,5 +13,7 @@ Eu  também optei de fazer a tela antes de ver alguém fazendo,pois queria monta
 Mesmo com uma certa limitação da parte do meu aprendizado referente ao Tkinter,eu conseguir transformar a ideia que tive em uma Interface do jeitinho que eu tinha pensado e desenhado.
 </p>
 
+<b>Postei um vídeo mostrando a tela funcionando no meu canal do YouTube:</b>
+https://youtu.be/3t2QZdx0xRU
 
 ![interface](https://user-images.githubusercontent.com/105760898/200207715-d4fe6240-af58-4765-97ae-269f8913e905.jpg)
